@@ -1,16 +1,13 @@
-# form_login
+# form_login_and_product
 
-A new Flutter project.
+Some flutter stuff that I do because I'm bored
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Username: user
+Password: user
 
-A few resources to get you started if this is your first Flutter project:
+## DISCLAIMER
+Tested on web only and not mobile, there's might be issues with it
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
